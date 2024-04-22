@@ -1,0 +1,15 @@
+@charset "UTF-8";
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html{
+    background-color: black;
+    background-image: url(./img/4078c1cf033daa52c9270680794ccbb1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
