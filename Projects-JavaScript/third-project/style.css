@@ -1,0 +1,17 @@
+@charset "UTF-8";
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background: linear-gradient(179.29deg, #CF2425 11.93%, rgba(207, 36, 37, 0) 99.39%),
+    linear-gradient(180deg, rgba(218, 59, 63, 0) 15.06%, #DA3B3F 100%);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
